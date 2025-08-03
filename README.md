@@ -5,9 +5,7 @@ A responsive **Netflix landing page clone** built using HTML and CSS. This clone
 ---
 
 ## 🌐 Live Demo
-
-**[🔗 View Live](https://your-deployment-url.com)**  
-> *(Replace this link with your deployed site if available, e.g., GitHub Pages or Netlify)*
+https://netflix-clone-nine-peach-63.vercel.app/
 
 ---
 
